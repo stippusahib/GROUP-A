@@ -3,7 +3,7 @@ country: "India"
 university: "KTU"
 branch: "GROUP-A"
 version: "2024"
-semester: 1/2
+semester: 1
 course_code: "GAMAT101"
 course_title: "Mathematics for Information Science – 1"
 language: "English"
@@ -45,4 +45,23 @@ contributor: "@tippu-sahib"
 * First Derivative Theorem, Critical Point, Saddle Point.
 * Second Derivative Test, Absolute Maxima and Minima on Closed Bounded Regions.
 
-> Relevant topics fr
+> Relevant topics from: Text 1 – Sections 14.4, 14.5, 14.7
+
+### Module - 4 (Optimization and Lagrange Multipliers)
+* Constrained Maxima and Minima.
+* Lagrange Multipliers with One and Two Constraints.
+* Method of Steepest Descent (only two variables).
+* Linear Programming Problem (LPP) – Formation.
+* Solution of LPP using Graphic Method.
+
+> Relevant topics from: Text 1 – Section 14.8; Text 2 – Sections 22.1, 22.2
+
+## References
+* Maurice D. Weir, Joel Hass, Christopher Heil, Przemyslaw Bogacki, **Thomas' Calculus**, Pearson, 15th edition, 2023.  
+* Erwin Kreyszig, **Advanced Engineering Mathematics**, John Wiley & Sons, 10th edition, 2016.  
+* Howard Anton, Irl Bivens, Stephen Davis, **Calculus**, Wiley, 10th edition, 2012.  
+* Rajesh Kumar Arora, **Optimization: Algorithms and Applications**, CRC Press, 1st edition, 2015.  
+* Ron Larson, Bruce Edwards, **Multivariable Calculus**, Brooks/Cole, Cengage Learning, 10th edition, 2014.  
+* Goldstein, Schneider, Lay, Asmar, **Calculus & Its Applications**, Pearson, 14th edition, 2018.  
+* John Bird, **Bird’s Higher Engineering Mathematics**, Taylor & Francis, 9th edition, 2021.  
+* B. V. Ramana, **Higher Engineering Mathematics**, McGraw-Hill Education, 39th edition, 2023.  
